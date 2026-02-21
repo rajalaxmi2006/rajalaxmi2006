@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I’m Raj!<br><br>🚀 Aspiring Full-Stack Web Developer<br>I enjoy building responsive, user-friendly web applications from front end to back end. I’m passionate about turning ideas into scalable real-world solutions using clean, maintainable code while continuously learning modern technologies and best practices.
+## 👋 Hi there, I’m Raj!
+<br><br>🚀 Aspiring Full-Stack Web Developer<br>I enjoy building responsive, user-friendly web applications from front end to back end. I’m passionate about turning ideas into scalable real-world solutions using clean, maintainable code while continuously learning modern technologies and best practices.
 <br><br>
 ## 🛠️ Tech Stack <br>
  ## 🌐 Frontend<br>
