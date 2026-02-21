@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋Hi%2C+I'm+Raj!;Aspiring+Full-Stack+Web+Developer;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋Hi%2C+I'm+Raj!;👩‍🏫Aspiring+Full-Stack+Web+Developer;💻Building+Modern+Web+Apps;🎯Always+Learning+New+Tech" />
 </p>
 
 ---
