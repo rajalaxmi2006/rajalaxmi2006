@@ -1,5 +1,26 @@
 # 💫 About Me:
-👋 Hi there, I’m Raj!<br><br>🚀 Aspiring Full-Stack Web Developer<br>I enjoy building responsive, user-friendly web applications from front end to back end. I’m passionate about turning ideas into scalable real-world solutions using clean, maintainable code while continuously learning modern technologies and best practices.<br><br>🛠️ Tech Stack<br>🌐 Frontend<br><br>⚛️ React<br><br>🧩 HTML5 | 🎨 CSS3 | 💡 JavaScript<br><br>🎯 Responsive Design<br><br>🧠 Backend<br><br>🟢 Node.js<br><br>🚏 Express.js<br><br>🗄️ Database<br><br>🐬 MySQL | 🍃 MongoDB<br><br>⚙️ Tools & Others<br><br>🧪 Git & GitHub<br><br>🛠️ VS Code<br><br>🌍 REST APIs<br><br>🌱 Currently Learning<br><br>📦 Advanced JavaScript<br><br>⚛️ React Ecosystem<br><br>🏗️ Backend Architecture & APIs<br><br>🎯 Goals<br><br>Build impactful real-world projects<br><br>Improve problem-solving skills<br><br>Grow into a confident full-stack developer
+👋 Hi there, I’m Raj!<br><br>🚀 Aspiring Full-Stack Web Developer<br>I enjoy building responsive, user-friendly web applications from front end to back end. I’m passionate about turning ideas into scalable real-world solutions using clean, maintainable code while continuously learning modern technologies and best practices.
+<br><br>
+## 🛠️ Tech Stack <br>
+ ## 🌐 Frontend<br>
+  <br>⚛️ React<br>
+  <br>🧩 HTML5 | 🎨 CSS3 | 💡 JavaScript<br>
+  <br>🎯 Responsive Design<br>
+  ## <br>🧠 Backend<br>
+ <br>🟢 Node.js<br>
+  <br>🚏 Express.js<br>
+  ## <br>🗄️ Database<br>
+  <br>🐬 MySQL | 🍃 MongoDB<br>
+  ## <br>⚙️ Tools & Others<br>
+  <br>🧪 Git & GitHub<br>
+ <br>🛠️ VS Code<br>
+  <br>🌍 REST APIs<br>
+  ## <br>🌱 Currently Learning<br>
+ <br>📦 Advanced JavaScript<br>
+  <br>⚛️ React Ecosystem<br><br>🏗️ Backend Architecture & APIs<br>
+  <br>🎯 Goals<br><br>Build impactful real-world projects<br>
+  <br>Improve problem-solving skills<br>
+ <br>Grow into a confident full-stack developer
 
 
 ## 🌐 Socials:
