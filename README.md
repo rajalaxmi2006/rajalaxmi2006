@@ -123,10 +123,7 @@ React        ████████░░ 50%
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/rajalaxmi2006/rajalaxmi2006/output/github-contribution-grid-snake.svg"/>
-</p>
 
 <p align="center">
-Thanks for visiting my profile!
+Thanks for visiting my profile!🩶
 </p>
