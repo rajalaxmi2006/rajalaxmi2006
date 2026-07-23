@@ -71,11 +71,6 @@ Become a Full Stack Developer
 # 📊 GitHub Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajalaxmi2006&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajalaxmi2006&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=rajalaxmi2006&theme=tokyonight"/>
 </p>
 
