@@ -62,9 +62,9 @@ Become a Full Stack Developer
 | Project | Tech | Description |
 |---------|------|-------------|
 | 🌐 Portfolio | HTML CSS JS | Personal portfolio website |
-| 📝 Todo App | React | Task management app |
-| 🛒 Ecommerce | MERN | Full-stack ecommerce platform |
-| 💬 Chat App | MERN + Socket.io | Real-time messaging |
+| 🌦️ Weather App | React | Digital Weather app |
+| 🛒 Ecommerce | HTML CSS JS | Modern ecommerce platform |
+| 🍕 Food delivery app | HTML CSS | Responsive website design |
 
 ---
 
