@@ -123,6 +123,13 @@ React        ████████░░ 50%
 
 ---
 
+# 💭 Developer Quote
+
+<p align="center">
+> *"First, solve the problem. Then, write the code."*  
+</p>
+
+---
 
 <p align="center">
 Thanks for visiting my profile!🩶
